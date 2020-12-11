@@ -31,10 +31,10 @@ fun numerosImpar () {
 fun downTo () {
 
     println("Uso del downTo con el for")
-    /**
-     *  Lo que el hace el downTo es decrementar y con el step le indicamos los paso que debe seguir
-     *  en este seria que decremente de 2 en 2 (100, 96, 94, 92, 80 ...)
-     */
+/**
+ *  Lo que el hace el downTo es decrementar y con el step le indicamos los paso que debe seguir
+ *  en este seria que decremente de 2 en 2 (100, 96, 94, 92, 80 ...)
+ */
     for ( x in 100 downTo -100 step 2 ) {
         println( x )
     }

@@ -13,7 +13,7 @@ fun main(args: Array<String>) {
     var y = 0
 
     do {
-        println( x )
+        println( y )
         y++
     } while ( y <= 20 )
 
