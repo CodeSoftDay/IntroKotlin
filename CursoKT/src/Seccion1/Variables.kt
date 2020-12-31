@@ -3,7 +3,6 @@ package Seccion1
 fun main (args: Array<String>) {
     println("Variables en kotlin")
 
-
     // Variables Numericas
     val x : Int = 2
     val y : Int = 6
