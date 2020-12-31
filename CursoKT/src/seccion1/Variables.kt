@@ -1,4 +1,4 @@
-package Seccion1
+package seccion1
 
 fun main (args: Array<String>) {
     println("Variables en kotlin")
