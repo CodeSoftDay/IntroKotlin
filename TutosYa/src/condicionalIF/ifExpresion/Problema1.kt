@@ -1,4 +1,4 @@
-package condicionalIF.ifExprecion
+package condicionalIF.ifExpresion
 
 /**
  * Cargar dos valores enteros, almacenar el mayor de los mismos en otra variable y mostrarlo.
