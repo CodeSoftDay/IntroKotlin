@@ -1,4 +1,4 @@
-package condicionalIF.condicionalesAnidads
+package condicionalIF.condicionalesAnidadas
 
 /*
     Confeccionar un programa que pida por teclado tres notas de un alumno, calcule el

@@ -1,4 +1,4 @@
-package condicionalIF.condicionalesAnidads
+package condicionalIF.condicionalesAnidadas
 
 fun main(args: Array<String>) {
 
